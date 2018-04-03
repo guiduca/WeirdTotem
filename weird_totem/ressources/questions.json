@@ -1,0 +1,20 @@
+{
+    "set": [
+        {
+                "text": "What did you have for breakfast this morning?",
+                "answers": ["cornflakes", "english breakfast", "coffee & cigarette"],
+                "related" : ["monkey", "horse"]
+        },
+        {
+                "text": "If your date would appear to be a T-Rex, where would you bring him/her out?",
+                "answers": ["At the pictures, watch silent of the lambs. Sure it'll hit hard !", "Around the house of that kid that used to bully you", "I wouldn't even see it's a T-REX, I don't wear my glasses on date"],
+                "related" : ["monkey", "horse"]
+        },
+        {
+                "text": "Who would win between the sun and one billion tigers ?",
+                "answers": ["The sun", "the tigers, if they go at night", "Chuck Norris"],
+                "related" : ["monkey", "horse"]
+        }
+
+    ]
+}
